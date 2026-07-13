@@ -18,7 +18,7 @@ st.error("Oops! Something went wrong")
 
 st.info("This is a simple info message")
 
-st.warning("This is a warning message")
+st.warning("**This is a warning message**")
 
 # st.checkbox("I agree to the terms and conditions")   # simple checkbox
 
